@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 const { pathfinder, Movements, goals } = require('mineflayer-pathfinder')
 
 const bot = mineflayer.createBot({
-  host: 'nounou256.aternos.me', // change if needed
+  host: 'bobnotsmp.aternos.me', // change if needed
   port: 25565, // change if your server has a custom port
   username: 'NounouBot',
   auth: 'offline'
